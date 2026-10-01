@@ -64,7 +64,7 @@ _**Figure 2.**_ NCBI FASTA record showing the complete chloroplast genome sequen
 | ------------------ | ---------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | Genome sequence    | FASTA                        | Used for Galaxy analysis and sequence statistics        | *Cocos nucifera* chloroplast genome, NC_022417.1                                  |
 | Annotated genome   | GenBank / RefSeq             | Used to examine genes and other genome features         | *Cocos nucifera* chloroplast genome, NC_022417.1                                  |
-| Source information | NCBI record link / accession | Used to record the database source and accession number |  NC_022417.1 — [NCBI Record](https://www.ncbi.nlm.nih.gov/nuccore/NC_022417.1)    |
+| Source information | NCBI record link / accession | Used to record the database source and accession number |  NC_022417.1 — https://www.ncbi.nlm.nih.gov/nuccore/NC_022417.1    |
 
 ## 6. Galaxy Workflow
 
