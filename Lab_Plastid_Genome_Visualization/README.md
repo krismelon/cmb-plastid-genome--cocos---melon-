@@ -52,4 +52,4 @@ The *Cocos nucifera* plastid genome is organized into four major regions: the La
 
 The answers to the Part E questions are available in:
 
-https://github.com/krismelon/cmb-plastid-genome--cocos---melon-/blob/main/answers/Lab_plastid_genome_answers.md
+https://github.com/krismelon/cmb-plastid-genome--cocos---melon-/blob/main/Lab_Plastid_Genome_Visualization/answers/Lab_plastid_genome_answers.md
