@@ -3,8 +3,11 @@
 ## Student Information
 
 **Name:** Melon, Kris Bernadette S. 
+
 **Scientific Name:** *Cocos nucifera*
+
 **NCBI Accession Number:** NC_022417.1
+
 **Plastid Genome Length:** 154,731 bp
 
 ## Source of Genome File
