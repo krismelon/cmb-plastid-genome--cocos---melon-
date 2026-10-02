@@ -37,7 +37,9 @@ The following settings were used to generate the plastid genome map:
 
 ## Plastid Genome Map
 
-<img width="482" height="485" alt="Screenshot 2026-10-02 084406" src="https://github.com/user-attachments/assets/d2af2e34-12b0-4056-b227-39936e28dfef" />
+<img width="5000" height="5000" alt="ogdraw_job_cd20fabf470e33f5819d3511f99c2922-outfile" src="https://github.com/user-attachments/assets/f69b030b-61e2-40d3-99dd-c3f30f0e9763" />
+
+**Figure 1.** The map shows the organization of the chloroplast genome, including the LSC, SSC, and inverted repeat (IR) regions, annotated genes, transcription directions, and GC content.
 
 ## Main Structural Features
 
@@ -46,3 +48,5 @@ The *Cocos nucifera* plastid genome is organized into four major regions: the La
 ## Answers
 
 The answers to the Part E questions are available in:
+
+https://github.com/krismelon/cmb-plastid-genome--cocos---melon-/blob/main/answers/Lab_plastid_genome_answers.md
